@@ -1,0 +1,2305 @@
+{
+  "passed": true,
+  "projects_verified": 4,
+  "plates_verified": 73,
+  "projects": [
+    {
+      "file": "Fukuoka_Road_20_Batch_1_A1-C2.3mf",
+      "plates": [
+        {
+          "batch": 1,
+          "plate": 1,
+          "tile": "A1",
+          "estimated_weight_g": 44.5,
+          "estimated_time_seconds": 5587,
+          "actual_label_toolpath_checks": [
+            {
+              "first_layer_gap_mm": 0.6315763359850937,
+              "second_layer_coverage_mm": -0.20249034912232197
+            },
+            {
+              "first_layer_gap_mm": 0.7610049999999957,
+              "second_layer_coverage_mm": -0.10023000000000523
+            },
+            {
+              "first_layer_gap_mm": 1.0990328042359196,
+              "second_layer_coverage_mm": -0.07401451171875478
+            }
+          ],
+          "river_layers_sample": null,
+          "river_sample_status": "no_flat_river_faces",
+          "flat_river_face_area_mm2": 0.0
+        },
+        {
+          "batch": 1,
+          "plate": 2,
+          "tile": "A2",
+          "estimated_weight_g": 45.77,
+          "estimated_time_seconds": 5355,
+          "actual_label_toolpath_checks": [
+            {
+              "first_layer_gap_mm": 0.6315038058038734,
+              "second_layer_coverage_mm": -0.1654581088288984
+            },
+            {
+              "first_layer_gap_mm": 0.7371436621319027,
+              "second_layer_coverage_mm": -0.13327523156406357
+            },
+            {
+              "first_layer_gap_mm": 1.0984623121098596,
+              "second_layer_coverage_mm": -0.07451536621094262
+            }
+          ],
+          "river_layers_sample": [
+            0.2,
+            0.4
+          ],
+          "river_sample_status": "verified_interior",
+          "flat_river_face_area_mm2": 5444.754012539512
+        },
+        {
+          "batch": 1,
+          "plate": 3,
+          "tile": "A3",
+          "estimated_weight_g": 70.04,
+          "estimated_time_seconds": 9418,
+          "actual_label_toolpath_checks": [
+            {
+              "first_layer_gap_mm": 0.6293103319189011,
+              "second_layer_coverage_mm": -0.17009168723297863
+            },
+            {
+              "first_layer_gap_mm": 0.3608130745634036,
+              "second_layer_coverage_mm": -0.04645891204386621
+            },
+            {
+              "first_layer_gap_mm": 1.098262922629091,
+              "second_layer_coverage_mm": -0.07401499999999955
+            }
+          ],
+          "river_layers_sample": [
+            0.2,
+            0.4
+          ],
+          "river_sample_status": "verified_interior",
+          "flat_river_face_area_mm2": 1779.2615792150514
+        },
+        {
+          "batch": 1,
+          "plate": 4,
+          "tile": "A4",
+          "estimated_weight_g": 89.18,
+          "estimated_time_seconds": 10365,
+          "actual_label_toolpath_checks": [
+            {
+              "first_layer_gap_mm": 0.6340708262983985,
+              "second_layer_coverage_mm": -0.17619097703341444
+            },
+            {
+              "first_layer_gap_mm": 0.6140063427734346,
+              "second_layer_coverage_mm": -0.04055615369849508
+            },
+            {
+              "first_layer_gap_mm": 1.0946276407399032,
+              "second_layer_coverage_mm": -0.07401499999999955
+            }
+          ],
+          "river_layers_sample": null,
+          "river_sample_status": "no_flat_river_faces",
+          "flat_river_face_area_mm2": 0.0
+        },
+        {
+          "batch": 1,
+          "plate": 5,
+          "tile": "A5",
+          "estimated_weight_g": 83.18,
+          "estimated_time_seconds": 10274,
+          "actual_label_toolpath_checks": [
+            {
+              "first_layer_gap_mm": 0.6295204119113965,
+              "second_layer_coverage_mm": -0.17346014948265817
+            },
+            {
+              "first_layer_gap_mm": 0.7688809666694449,
+              "second_layer_coverage_mm": -0.20106725126062255
+            },
+            {
+              "first_layer_gap_mm": 1.0990326498278233,
+              "second_layer_coverage_mm": -0.07401499999999955
+            }
+          ],
+          "river_layers_sample": null,
+          "river_sample_status": "no_flat_river_faces",
+          "flat_river_face_area_mm2": 0.0
+        },
+        {
+          "batch": 1,
+          "plate": 6,
+          "tile": "A6",
+          "estimated_weight_g": 74.56,
+          "estimated_time_seconds": 9144,
+          "actual_label_toolpath_checks": [
+            {
+              "first_layer_gap_mm": 0.6206984478775505,
+              "second_layer_coverage_mm": -0.2026080557617959
+            },
+            {
+              "first_layer_gap_mm": 0.7939824144341341,
+              "second_layer_coverage_mm": -0.1298921627684791
+            },
+            {
+              "first_layer_gap_mm": 1.098030528921342,
+              "second_layer_coverage_mm": -0.07401499999999955
+            }
+          ],
+          "river_layers_sample": null,
+          "river_sample_status": "no_flat_river_faces",
+          "flat_river_face_area_mm2": 0.0
+        },
+        {
+          "batch": 1,
+          "plate": 7,
+          "tile": "A7",
+          "estimated_weight_g": 55.69,
+          "estimated_time_seconds": 6763,
+          "actual_label_toolpath_checks": [
+            {
+              "first_layer_gap_mm": 0.6338381669511975,
+              "second_layer_coverage_mm": -0.14288871276233694
+            },
+            {
+              "first_layer_gap_mm": 0.7613214694545825,
+              "second_layer_coverage_mm": -0.050528049875601805
+            },
+            {
+              "first_layer_gap_mm": 1.0990326498278267,
+              "second_layer_coverage_mm": -0.0750298326264057
+            }
+          ],
+          "river_layers_sample": [
+            0.2,
+            0.4
+          ],
+          "river_sample_status": "verified_interior",
+          "flat_river_face_area_mm2": 3627.5550443450193
+        },
+        {
+          "batch": 1,
+          "plate": 8,
+          "tile": "A8",
+          "estimated_weight_g": 56.97,
+          "estimated_time_seconds": 7106,
+          "actual_label_toolpath_checks": [
+            {
+              "first_layer_gap_mm": 0.6207230901943808,
+              "second_layer_coverage_mm": -0.0892239737020659
+            },
+            {
+              "first_layer_gap_mm": 0.20683710082609777,
+              "second_layer_coverage_mm": -0.030425682024994655
+            },
+            {
+              "first_layer_gap_mm": 1.0985574116684602,
+              "second_layer_coverage_mm": -0.07401499999999955
+            }
+          ],
+          "river_layers_sample": [
+            0.2,
+            0.4
+          ],
+          "river_sample_status": "verified_interior",
+          "flat_river_face_area_mm2": 2117.031936560698
+        },
+        {
+          "batch": 1,
+          "plate": 9,
+          "tile": "A9",
+          "estimated_weight_g": 52.3,
+          "estimated_time_seconds": 7335,
+          "actual_label_toolpath_checks": [
+            {
+              "first_layer_gap_mm": 0.6211876722293421,
+              "second_layer_coverage_mm": -0.12221630406968848
+            },
+            {
+              "first_layer_gap_mm": 0.7925757093502885,
+              "second_layer_coverage_mm": -0.08063860008778795
+            },
+            {
+              "first_layer_gap_mm": 1.0943094759785503,
+              "second_layer_coverage_mm": -0.07401499999999955
+            }
+          ],
+          "river_layers_sample": null,
+          "river_sample_status": "no_flat_river_faces",
+          "flat_river_face_area_mm2": 0.0
+        },
+        {
+          "batch": 1,
+          "plate": 10,
+          "tile": "B1",
+          "estimated_weight_g": 74.43,
+          "estimated_time_seconds": 9774,
+          "actual_label_toolpath_checks": [
+            {
+              "first_layer_gap_mm": 0.5204325734388858,
+              "second_layer_coverage_mm": -0.15426999999999785
+            },
+            {
+              "first_layer_gap_mm": 0.7615049999999839,
+              "second_layer_coverage_mm": -0.08577000000001184
+            },
+            {
+              "first_layer_gap_mm": 1.0990326498278278,
+              "second_layer_coverage_mm": -0.07401499999999955
+            }
+          ],
+          "river_layers_sample": null,
+          "river_sample_status": "no_flat_river_faces",
+          "flat_river_face_area_mm2": 0.0
+        },
+        {
+          "batch": 1,
+          "plate": 11,
+          "tile": "B2",
+          "estimated_weight_g": 82.89,
+          "estimated_time_seconds": 9364,
+          "actual_label_toolpath_checks": [
+            {
+              "first_layer_gap_mm": 0.5185049999999889,
+              "second_layer_coverage_mm": -0.15986250022358317
+            },
+            {
+              "first_layer_gap_mm": 0.7408831510966587,
+              "second_layer_coverage_mm": -0.09322348474790938
+            },
+            {
+              "first_layer_gap_mm": 1.0985686906885204,
+              "second_layer_coverage_mm": -0.07401499999999955
+            }
+          ],
+          "river_layers_sample": [
+            0.2,
+            0.4
+          ],
+          "river_sample_status": "verified_interior",
+          "flat_river_face_area_mm2": 1384.8704331181943
+        },
+        {
+          "batch": 1,
+          "plate": 12,
+          "tile": "B3",
+          "estimated_weight_g": 67.05,
+          "estimated_time_seconds": 8233,
+          "actual_label_toolpath_checks": [
+            {
+              "first_layer_gap_mm": 0.5091437732079119,
+              "second_layer_coverage_mm": -0.1713996186924499
+            },
+            {
+              "first_layer_gap_mm": 0.3606628461599909,
+              "second_layer_coverage_mm": -0.1851648889630774
+            },
+            {
+              "first_layer_gap_mm": 1.0984966555080515,
+              "second_layer_coverage_mm": -0.07502983262640392
+            }
+          ],
+          "river_layers_sample": [
+            0.2,
+            0.4
+          ],
+          "river_sample_status": "verified_interior",
+          "flat_river_face_area_mm2": 7358.8266267247045
+        },
+        {
+          "batch": 1,
+          "plate": 13,
+          "tile": "B4",
+          "estimated_weight_g": 81.47,
+          "estimated_time_seconds": 10719,
+          "actual_label_toolpath_checks": [
+            {
+              "first_layer_gap_mm": 0.5218876783402662,
+              "second_layer_coverage_mm": -0.20815952336631158
+            },
+            {
+              "first_layer_gap_mm": 0.613505000000002,
+              "second_layer_coverage_mm": -0.040794973270781076
+            },
+            {
+              "first_layer_gap_mm": 1.0945830680977886,
+              "second_layer_coverage_mm": -0.07401499999999955
+            }
+          ],
+          "river_layers_sample": [
+            0.2,
+            0.4
+          ],
+          "river_sample_status": "verified_interior",
+          "flat_river_face_area_mm2": 2616.2378876200937
+        },
+        {
+          "batch": 1,
+          "plate": 14,
+          "tile": "B5",
+          "estimated_weight_g": 83.17,
+          "estimated_time_seconds": 10977,
+          "actual_label_toolpath_checks": [
+            {
+              "first_layer_gap_mm": 0.5155341297799974,
+              "second_layer_coverage_mm": -0.03091102112793004
+            },
+            {
+              "first_layer_gap_mm": 0.7781367087994691,
+              "second_layer_coverage_mm": -0.05167307363373025
+            },
+            {
+              "first_layer_gap_mm": 1.0990326498278413,
+              "second_layer_coverage_mm": -0.07401499999999955
+            }
+          ],
+          "river_layers_sample": [
+            0.2,
+            0.4
+          ],
+          "river_sample_status": "verified_interior",
+          "flat_river_face_area_mm2": 1202.808830699928
+        },
+        {
+          "batch": 1,
+          "plate": 15,
+          "tile": "B6",
+          "estimated_weight_g": 95.09,
+          "estimated_time_seconds": 11389,
+          "actual_label_toolpath_checks": [
+            {
+              "first_layer_gap_mm": 0.5123563305628507,
+              "second_layer_coverage_mm": -0.0613964441175969
+            },
+            {
+              "first_layer_gap_mm": 0.7945502568302363,
+              "second_layer_coverage_mm": -0.12431575573817494
+            },
+            {
+              "first_layer_gap_mm": 1.0947205985746633,
+              "second_layer_coverage_mm": -0.07436633056283554
+            }
+          ],
+          "river_layers_sample": null,
+          "river_sample_status": "no_flat_river_faces",
+          "flat_river_face_area_mm2": 0.0
+        },
+        {
+          "batch": 1,
+          "plate": 16,
+          "tile": "B7",
+          "estimated_weight_g": 87.27,
+          "estimated_time_seconds": 10070,
+          "actual_label_toolpath_checks": [
+            {
+              "first_layer_gap_mm": 0.52272632497099,
+              "second_layer_coverage_mm": -0.12241899706765604
+            },
+            {
+              "first_layer_gap_mm": 0.7636595554876269,
+              "second_layer_coverage_mm": -0.09409023847886026
+            },
+            {
+              "first_layer_gap_mm": 1.0982629226291043,
+              "second_layer_coverage_mm": -0.07401499999999955
+            }
+          ],
+          "river_layers_sample": null,
+          "river_sample_status": "no_flat_river_faces",
+          "flat_river_face_area_mm2": 0.0
+        },
+        {
+          "batch": 1,
+          "plate": 17,
+          "tile": "B8",
+          "estimated_weight_g": 77.13,
+          "estimated_time_seconds": 9302,
+          "actual_label_toolpath_checks": [
+            {
+              "first_layer_gap_mm": 0.5163243058702824,
+              "second_layer_coverage_mm": -0.09935542776911443
+            },
+            {
+              "first_layer_gap_mm": 0.20683710082609777,
+              "second_layer_coverage_mm": -0.04626755318323625
+            },
+            {
+              "first_layer_gap_mm": 1.0988540396908926,
+              "second_layer_coverage_mm": -0.07401499999999955
+            }
+          ],
+          "river_layers_sample": [
+            0.2,
+            0.4
+          ],
+          "river_sample_status": "verified_interior",
+          "flat_river_face_area_mm2": 1486.5042615432758
+        },
+        {
+          "batch": 1,
+          "plate": 18,
+          "tile": "B9",
+          "estimated_weight_g": 50.97,
+          "estimated_time_seconds": 6627,
+          "actual_label_toolpath_checks": [
+            {
+              "first_layer_gap_mm": 0.5163243058702878,
+              "second_layer_coverage_mm": -0.17550499999999267
+            },
+            {
+              "first_layer_gap_mm": 0.794144929669583,
+              "second_layer_coverage_mm": -0.10251232323232393
+            },
+            {
+              "first_layer_gap_mm": 1.0990326498278384,
+              "second_layer_coverage_mm": -0.07452491421987051
+            }
+          ],
+          "river_layers_sample": [
+            0.2,
+            0.4
+          ],
+          "river_sample_status": "verified_interior",
+          "flat_river_face_area_mm2": 4300.303936414783
+        },
+        {
+          "batch": 1,
+          "plate": 19,
+          "tile": "C1",
+          "estimated_weight_g": 86.29,
+          "estimated_time_seconds": 9973,
+          "actual_label_toolpath_checks": [
+            {
+              "first_layer_gap_mm": 0.8071863159622601,
+              "second_layer_coverage_mm": -0.059366720210562274
+            },
+            {
+              "first_layer_gap_mm": 0.7440018261718804,
+              "second_layer_coverage_mm": -0.11676239654209888
+            },
+            {
+              "first_layer_gap_mm": 1.0914694297851506,
+              "second_layer_coverage_mm": -0.07401499999999955
+            }
+          ],
+          "river_layers_sample": null,
+          "river_sample_status": "no_flat_river_faces",
+          "flat_river_face_area_mm2": 0.0
+        },
+        {
+          "batch": 1,
+          "plate": 20,
+          "tile": "C2",
+          "estimated_weight_g": 85.54,
+          "estimated_time_seconds": 8697,
+          "actual_label_toolpath_checks": [
+            {
+              "first_layer_gap_mm": 0.8114874362724678,
+              "second_layer_coverage_mm": -0.08813785064031618
+            },
+            {
+              "first_layer_gap_mm": 0.7258270239138677,
+              "second_layer_coverage_mm": -0.07825235486061399
+            },
+            {
+              "first_layer_gap_mm": 1.098854039690879,
+              "second_layer_coverage_mm": -0.07401499999999955
+            }
+          ],
+          "river_layers_sample": null,
+          "river_sample_status": "no_flat_river_faces",
+          "flat_river_face_area_mm2": 0.0
+        }
+      ],
+      "sha256": "020b2c1e343f836faad8e5c123062b95e4dc38ebc186305f762fd90fb8ec979d",
+      "warnings": [
+        {
+          "msg": "bed_temperature_too_high_than_filament",
+          "level": "3",
+          "error_code": "1000C001"
+        },
+        {
+          "msg": "bed_temperature_too_high_than_filament",
+          "level": "3",
+          "error_code": "1000C001"
+        },
+        {
+          "msg": "bed_temperature_too_high_than_filament",
+          "level": "3",
+          "error_code": "1000C001"
+        },
+        {
+          "msg": "bed_temperature_too_high_than_filament",
+          "level": "3",
+          "error_code": "1000C001"
+        },
+        {
+          "msg": "bed_temperature_too_high_than_filament",
+          "level": "3",
+          "error_code": "1000C001"
+        },
+        {
+          "msg": "bed_temperature_too_high_than_filament",
+          "level": "3",
+          "error_code": "1000C001"
+        },
+        {
+          "msg": "bed_temperature_too_high_than_filament",
+          "level": "3",
+          "error_code": "1000C001"
+        },
+        {
+          "msg": "bed_temperature_too_high_than_filament",
+          "level": "3",
+          "error_code": "1000C001"
+        },
+        {
+          "msg": "bed_temperature_too_high_than_filament",
+          "level": "3",
+          "error_code": "1000C001"
+        },
+        {
+          "msg": "bed_temperature_too_high_than_filament",
+          "level": "3",
+          "error_code": "1000C001"
+        },
+        {
+          "msg": "bed_temperature_too_high_than_filament",
+          "level": "3",
+          "error_code": "1000C001"
+        },
+        {
+          "msg": "bed_temperature_too_high_than_filament",
+          "level": "3",
+          "error_code": "1000C001"
+        },
+        {
+          "msg": "bed_temperature_too_high_than_filament",
+          "level": "3",
+          "error_code": "1000C001"
+        },
+        {
+          "msg": "bed_temperature_too_high_than_filament",
+          "level": "3",
+          "error_code": "1000C001"
+        },
+        {
+          "msg": "bed_temperature_too_high_than_filament",
+          "level": "3",
+          "error_code": "1000C001"
+        },
+        {
+          "msg": "not_support_traditional_timelapse",
+          "level": "2",
+          "error_code": "10018003"
+        },
+        {
+          "msg": "not_support_traditional_timelapse",
+          "level": "3",
+          "error_code": "1000C003"
+        },
+        {
+          "msg": "bed_temperature_too_high_than_filament",
+          "level": "3",
+          "error_code": "1000C001"
+        },
+        {
+          "msg": "bed_temperature_too_high_than_filament",
+          "level": "3",
+          "error_code": "1000C001"
+        },
+        {
+          "msg": "bed_temperature_too_high_than_filament",
+          "level": "3",
+          "error_code": "1000C001"
+        },
+        {
+          "msg": "bed_temperature_too_high_than_filament",
+          "level": "3",
+          "error_code": "1000C001"
+        },
+        {
+          "msg": "bed_temperature_too_high_than_filament",
+          "level": "3",
+          "error_code": "1000C001"
+        }
+      ]
+    },
+    {
+      "file": "Fukuoka_Road_20_Batch_2_C3-E3.3mf",
+      "plates": [
+        {
+          "batch": 2,
+          "plate": 1,
+          "tile": "C3",
+          "estimated_weight_g": 74.88,
+          "estimated_time_seconds": 8495,
+          "actual_label_toolpath_checks": [
+            {
+              "first_layer_gap_mm": 0.8109906260079809,
+              "second_layer_coverage_mm": -0.13157277354691288
+            },
+            {
+              "first_layer_gap_mm": 0.3551770151096597,
+              "second_layer_coverage_mm": -0.05725355528617257
+            },
+            {
+              "first_layer_gap_mm": 1.098359570558652,
+              "second_layer_coverage_mm": -0.0750298326264057
+            }
+          ],
+          "river_layers_sample": [
+            0.2,
+            0.4
+          ],
+          "river_sample_status": "verified_interior",
+          "flat_river_face_area_mm2": 1851.241638377549
+        },
+        {
+          "batch": 2,
+          "plate": 2,
+          "tile": "C4",
+          "estimated_weight_g": 66.42,
+          "estimated_time_seconds": 9195,
+          "actual_label_toolpath_checks": [
+            {
+              "first_layer_gap_mm": 0.7935399812670865,
+              "second_layer_coverage_mm": -0.07877723377704363
+            },
+            {
+              "first_layer_gap_mm": 0.5935049999999988,
+              "second_layer_coverage_mm": -0.10577802772864613
+            },
+            {
+              "first_layer_gap_mm": 1.0988952610392024,
+              "second_layer_coverage_mm": -0.07451991421987053
+            }
+          ],
+          "river_layers_sample": [
+            0.2,
+            0.4
+          ],
+          "river_sample_status": "verified_interior",
+          "flat_river_face_area_mm2": 6919.35543137532
+        },
+        {
+          "batch": 2,
+          "plate": 3,
+          "tile": "C5",
+          "estimated_weight_g": 79.12,
+          "estimated_time_seconds": 9778,
+          "actual_label_toolpath_checks": [
+            {
+              "first_layer_gap_mm": 0.80526621323551,
+              "second_layer_coverage_mm": -0.11490333618425294
+            },
+            {
+              "first_layer_gap_mm": 0.7725156026202198,
+              "second_layer_coverage_mm": -0.21077258745831326
+            },
+            {
+              "first_layer_gap_mm": 1.098854039690879,
+              "second_layer_coverage_mm": -0.07401499999999955
+            }
+          ],
+          "river_layers_sample": [
+            0.2,
+            0.4
+          ],
+          "river_sample_status": "verified_interior",
+          "flat_river_face_area_mm2": 3028.976259906537
+        },
+        {
+          "batch": 2,
+          "plate": 4,
+          "tile": "C6",
+          "estimated_weight_g": 89.97,
+          "estimated_time_seconds": 10535,
+          "actual_label_toolpath_checks": [
+            {
+              "first_layer_gap_mm": 0.8119143128593211,
+              "second_layer_coverage_mm": -0.12000826758299998
+            },
+            {
+              "first_layer_gap_mm": 0.7945993841842378,
+              "second_layer_coverage_mm": -0.05065631668570578
+            },
+            {
+              "first_layer_gap_mm": 1.095346700440824,
+              "second_layer_coverage_mm": -0.07401499999999955
+            }
+          ],
+          "river_layers_sample": null,
+          "river_sample_status": "no_flat_river_faces",
+          "flat_river_face_area_mm2": 0.0
+        },
+        {
+          "batch": 2,
+          "plate": 5,
+          "tile": "C7",
+          "estimated_weight_g": 99.33,
+          "estimated_time_seconds": 10999,
+          "actual_label_toolpath_checks": [
+            {
+              "first_layer_gap_mm": 0.8039802424600921,
+              "second_layer_coverage_mm": -0.02706354255724297
+            },
+            {
+              "first_layer_gap_mm": 0.7469363310042753,
+              "second_layer_coverage_mm": -0.16331702176594864
+            },
+            {
+              "first_layer_gap_mm": 1.094869029163543,
+              "second_layer_coverage_mm": -0.07401499999999955
+            }
+          ],
+          "river_layers_sample": null,
+          "river_sample_status": "no_flat_river_faces",
+          "flat_river_face_area_mm2": 0.0
+        },
+        {
+          "batch": 2,
+          "plate": 6,
+          "tile": "C8",
+          "estimated_weight_g": 21.56,
+          "estimated_time_seconds": 2177,
+          "actual_label_toolpath_checks": [
+            {
+              "first_layer_gap_mm": 0.8088338587246546,
+              "second_layer_coverage_mm": -0.11947882165202071
+            },
+            {
+              "first_layer_gap_mm": 0.19849875262608732,
+              "second_layer_coverage_mm": -0.04990150739095628
+            },
+            {
+              "first_layer_gap_mm": 1.0988741837013576,
+              "second_layer_coverage_mm": -0.07451524414062433
+            }
+          ],
+          "river_layers_sample": null,
+          "river_sample_status": "no_flat_river_faces",
+          "flat_river_face_area_mm2": 0.0
+        },
+        {
+          "batch": 2,
+          "plate": 7,
+          "tile": "C9",
+          "estimated_weight_g": 73.76,
+          "estimated_time_seconds": 7729,
+          "actual_label_toolpath_checks": [
+            {
+              "first_layer_gap_mm": 0.8034266614480556,
+              "second_layer_coverage_mm": -0.1123158762117166
+            },
+            {
+              "first_layer_gap_mm": 0.801727211381541,
+              "second_layer_coverage_mm": -0.11419825933503681
+            },
+            {
+              "first_layer_gap_mm": 1.098560744328281,
+              "second_layer_coverage_mm": -0.0740118738555931
+            }
+          ],
+          "river_layers_sample": null,
+          "river_sample_status": "no_flat_river_faces",
+          "flat_river_face_area_mm2": 0.0
+        },
+        {
+          "batch": 2,
+          "plate": 8,
+          "tile": "C10",
+          "estimated_weight_g": 86.88,
+          "estimated_time_seconds": 10499,
+          "actual_label_toolpath_checks": [
+            {
+              "first_layer_gap_mm": 0.8098243303358443,
+              "second_layer_coverage_mm": -0.06917607918642843
+            },
+            {
+              "first_layer_gap_mm": 0.7440049999999998,
+              "second_layer_coverage_mm": -0.13202874356567504
+            },
+            {
+              "first_layer_gap_mm": 0.7570463162560164,
+              "second_layer_coverage_mm": -0.21014316783868073
+            },
+            {
+              "first_layer_gap_mm": 1.094782119058698,
+              "second_layer_coverage_mm": -0.07401499999999955
+            }
+          ],
+          "river_layers_sample": [
+            0.2,
+            0.4
+          ],
+          "river_sample_status": "verified_interior",
+          "flat_river_face_area_mm2": 697.9302012367407
+        },
+        {
+          "batch": 2,
+          "plate": 9,
+          "tile": "D1",
+          "estimated_weight_g": 88.3,
+          "estimated_time_seconds": 11239,
+          "actual_label_toolpath_checks": [
+            {
+              "first_layer_gap_mm": 0.8292812342498133,
+              "second_layer_coverage_mm": -0.08930803586918698
+            },
+            {
+              "first_layer_gap_mm": 0.7606833360892431,
+              "second_layer_coverage_mm": -0.07980499999999977
+            },
+            {
+              "first_layer_gap_mm": 1.0986761085754742,
+              "second_layer_coverage_mm": -0.07401268066406558
+            }
+          ],
+          "river_layers_sample": null,
+          "river_sample_status": "no_flat_river_faces",
+          "flat_river_face_area_mm2": 0.0
+        },
+        {
+          "batch": 2,
+          "plate": 10,
+          "tile": "D2",
+          "estimated_weight_g": 85.84,
+          "estimated_time_seconds": 9745,
+          "actual_label_toolpath_checks": [
+            {
+              "first_layer_gap_mm": 0.822089473404392,
+              "second_layer_coverage_mm": -0.07777418149760126
+            },
+            {
+              "first_layer_gap_mm": 0.7348827681848392,
+              "second_layer_coverage_mm": -0.16588326068508139
+            },
+            {
+              "first_layer_gap_mm": 1.098107758693911,
+              "second_layer_coverage_mm": -0.07401499999999955
+            }
+          ],
+          "river_layers_sample": null,
+          "river_sample_status": "no_flat_river_faces",
+          "flat_river_face_area_mm2": 0.0
+        },
+        {
+          "batch": 2,
+          "plate": 11,
+          "tile": "D3",
+          "estimated_weight_g": 76.88,
+          "estimated_time_seconds": 10433,
+          "actual_label_toolpath_checks": [
+            {
+              "first_layer_gap_mm": 0.8184663660830287,
+              "second_layer_coverage_mm": -0.09457243726410133
+            },
+            {
+              "first_layer_gap_mm": 0.36063877736066086,
+              "second_layer_coverage_mm": -0.1601096687090785
+            },
+            {
+              "first_layer_gap_mm": 1.0948980309137717,
+              "second_layer_coverage_mm": -0.07401499999999955
+            }
+          ],
+          "river_layers_sample": [
+            0.2,
+            0.4
+          ],
+          "river_sample_status": "verified_interior",
+          "flat_river_face_area_mm2": 887.7494791833014
+        },
+        {
+          "batch": 2,
+          "plate": 12,
+          "tile": "D4",
+          "estimated_weight_g": 88.68,
+          "estimated_time_seconds": 12495,
+          "actual_label_toolpath_checks": [
+            {
+              "first_layer_gap_mm": 0.8332259684855872,
+              "second_layer_coverage_mm": -0.04928894504555073
+            },
+            {
+              "first_layer_gap_mm": 0.6130046948242109,
+              "second_layer_coverage_mm": -0.08605631924647492
+            },
+            {
+              "first_layer_gap_mm": 1.0984009084332116,
+              "second_layer_coverage_mm": -0.0745118261718683
+            }
+          ],
+          "river_layers_sample": [
+            0.2,
+            0.4
+          ],
+          "river_sample_status": "verified_interior",
+          "flat_river_face_area_mm2": 70.46649689984042
+        },
+        {
+          "batch": 2,
+          "plate": 13,
+          "tile": "D5",
+          "estimated_weight_g": 59.56,
+          "estimated_time_seconds": 7405,
+          "actual_label_toolpath_checks": [
+            {
+              "first_layer_gap_mm": 0.8192000046769434,
+              "second_layer_coverage_mm": -0.08260861876878672
+            },
+            {
+              "first_layer_gap_mm": 0.7688809666694449,
+              "second_layer_coverage_mm": -0.030361515750050166
+            },
+            {
+              "first_layer_gap_mm": 1.0990326498278233,
+              "second_layer_coverage_mm": -0.07401499999999955
+            }
+          ],
+          "river_layers_sample": [
+            0.2,
+            0.4
+          ],
+          "river_sample_status": "verified_interior",
+          "flat_river_face_area_mm2": 7300.835857558186
+        },
+        {
+          "batch": 2,
+          "plate": 14,
+          "tile": "D6",
+          "estimated_weight_g": 88.85,
+          "estimated_time_seconds": 11449,
+          "actual_label_toolpath_checks": [
+            {
+              "first_layer_gap_mm": 0.8154347233836978,
+              "second_layer_coverage_mm": -0.09434214689616324
+            },
+            {
+              "first_layer_gap_mm": 0.7997353816479416,
+              "second_layer_coverage_mm": -0.18606188672387852
+            },
+            {
+              "first_layer_gap_mm": 1.0985614349426047,
+              "second_layer_coverage_mm": -0.07401499999999955
+            }
+          ],
+          "river_layers_sample": null,
+          "river_sample_status": "no_flat_river_faces",
+          "flat_river_face_area_mm2": 0.0
+        },
+        {
+          "batch": 2,
+          "plate": 15,
+          "tile": "D7",
+          "estimated_weight_g": 93.14,
+          "estimated_time_seconds": 10764,
+          "actual_label_toolpath_checks": [
+            {
+              "first_layer_gap_mm": 0.8253466553599482,
+              "second_layer_coverage_mm": -0.1615324895460916
+            },
+            {
+              "first_layer_gap_mm": 0.7593893685468955,
+              "second_layer_coverage_mm": -0.16964183119599768
+            },
+            {
+              "first_layer_gap_mm": 1.096900090710029,
+              "second_layer_coverage_mm": -0.07401499999999955
+            }
+          ],
+          "river_layers_sample": null,
+          "river_sample_status": "no_flat_river_faces",
+          "flat_river_face_area_mm2": 0.0
+        },
+        {
+          "batch": 2,
+          "plate": 16,
+          "tile": "D8",
+          "estimated_weight_g": 87.77,
+          "estimated_time_seconds": 9583,
+          "actual_label_toolpath_checks": [
+            {
+              "first_layer_gap_mm": 0.8110314353997412,
+              "second_layer_coverage_mm": -0.1055602969148799
+            },
+            {
+              "first_layer_gap_mm": 0.206358913295323,
+              "second_layer_coverage_mm": -0.05252965711848959
+            },
+            {
+              "first_layer_gap_mm": 1.0986970998460752,
+              "second_layer_coverage_mm": -0.07451121582031944
+            }
+          ],
+          "river_layers_sample": null,
+          "river_sample_status": "no_flat_river_faces",
+          "flat_river_face_area_mm2": 0.0
+        },
+        {
+          "batch": 2,
+          "plate": 17,
+          "tile": "D9",
+          "estimated_weight_g": 92.69,
+          "estimated_time_seconds": 10605,
+          "actual_label_toolpath_checks": [
+            {
+              "first_layer_gap_mm": 0.8116238767113495,
+              "second_layer_coverage_mm": -0.14245768444247556
+            },
+            {
+              "first_layer_gap_mm": 0.7932344366830564,
+              "second_layer_coverage_mm": -0.04769380673387866
+            },
+            {
+              "first_layer_gap_mm": 1.0985791049009086,
+              "second_layer_coverage_mm": -0.07401499999999955
+            }
+          ],
+          "river_layers_sample": null,
+          "river_sample_status": "no_flat_river_faces",
+          "flat_river_face_area_mm2": 0.0
+        },
+        {
+          "batch": 2,
+          "plate": 18,
+          "tile": "E1",
+          "estimated_weight_g": 64.43,
+          "estimated_time_seconds": 8986,
+          "actual_label_toolpath_checks": [
+            {
+              "first_layer_gap_mm": 0.7345046948242226,
+              "second_layer_coverage_mm": -0.12492500000000387
+            },
+            {
+              "first_layer_gap_mm": 0.7615049999999981,
+              "second_layer_coverage_mm": -0.07392499999998772
+            },
+            {
+              "first_layer_gap_mm": 1.0946695315628954,
+              "second_layer_coverage_mm": -0.07401530517578819
+            }
+          ],
+          "river_layers_sample": null,
+          "river_sample_status": "no_flat_river_faces",
+          "flat_river_face_area_mm2": 0.0
+        },
+        {
+          "batch": 2,
+          "plate": 19,
+          "tile": "E2",
+          "estimated_weight_g": 76.0,
+          "estimated_time_seconds": 10464,
+          "actual_label_toolpath_checks": [
+            {
+              "first_layer_gap_mm": 0.7340081127929763,
+              "second_layer_coverage_mm": -0.2005259683909468
+            },
+            {
+              "first_layer_gap_mm": 0.7344638980144451,
+              "second_layer_coverage_mm": -0.05533253731839313
+            },
+            {
+              "first_layer_gap_mm": 1.0988735515932526,
+              "second_layer_coverage_mm": -0.07451811279296933
+            }
+          ],
+          "river_layers_sample": [
+            0.2,
+            0.4
+          ],
+          "river_sample_status": "verified_interior",
+          "flat_river_face_area_mm2": 523.5490338335203
+        },
+        {
+          "batch": 2,
+          "plate": 20,
+          "tile": "E3",
+          "estimated_weight_g": 85.71,
+          "estimated_time_seconds": 10078,
+          "actual_label_toolpath_checks": [
+            {
+              "first_layer_gap_mm": 0.7240022534179771,
+              "second_layer_coverage_mm": -0.10875950914991171
+            },
+            {
+              "first_layer_gap_mm": 0.3606361055963595,
+              "second_layer_coverage_mm": -0.1935163625529212
+            },
+            {
+              "first_layer_gap_mm": 1.0990335183733309,
+              "second_layer_coverage_mm": -0.07401225341797285
+            }
+          ],
+          "river_layers_sample": [
+            0.2,
+            0.4
+          ],
+          "river_sample_status": "verified_interior",
+          "flat_river_face_area_mm2": 351.3255102389503
+        }
+      ],
+      "sha256": "09151fc6b00d00c4b6330c15760d1dbd208a068bb79901c25ed90f27def47c5a",
+      "warnings": [
+        {
+          "msg": "bed_temperature_too_high_than_filament",
+          "level": "3",
+          "error_code": "1000C001"
+        },
+        {
+          "msg": "bed_temperature_too_high_than_filament",
+          "level": "3",
+          "error_code": "1000C001"
+        },
+        {
+          "msg": "bed_temperature_too_high_than_filament",
+          "level": "3",
+          "error_code": "1000C001"
+        },
+        {
+          "msg": "bed_temperature_too_high_than_filament",
+          "level": "3",
+          "error_code": "1000C001"
+        },
+        {
+          "msg": "bed_temperature_too_high_than_filament",
+          "level": "3",
+          "error_code": "1000C001"
+        },
+        {
+          "msg": "bed_temperature_too_high_than_filament",
+          "level": "3",
+          "error_code": "1000C001"
+        },
+        {
+          "msg": "bed_temperature_too_high_than_filament",
+          "level": "3",
+          "error_code": "1000C001"
+        },
+        {
+          "msg": "bed_temperature_too_high_than_filament",
+          "level": "3",
+          "error_code": "1000C001"
+        },
+        {
+          "msg": "bed_temperature_too_high_than_filament",
+          "level": "3",
+          "error_code": "1000C001"
+        },
+        {
+          "msg": "not_support_traditional_timelapse",
+          "level": "2",
+          "error_code": "10018003"
+        },
+        {
+          "msg": "not_support_traditional_timelapse",
+          "level": "3",
+          "error_code": "1000C003"
+        },
+        {
+          "msg": "bed_temperature_too_high_than_filament",
+          "level": "3",
+          "error_code": "1000C001"
+        },
+        {
+          "msg": "bed_temperature_too_high_than_filament",
+          "level": "3",
+          "error_code": "1000C001"
+        },
+        {
+          "msg": "bed_temperature_too_high_than_filament",
+          "level": "3",
+          "error_code": "1000C001"
+        },
+        {
+          "msg": "bed_temperature_too_high_than_filament",
+          "level": "3",
+          "error_code": "1000C001"
+        },
+        {
+          "msg": "bed_temperature_too_high_than_filament",
+          "level": "3",
+          "error_code": "1000C001"
+        },
+        {
+          "msg": "bed_temperature_too_high_than_filament",
+          "level": "3",
+          "error_code": "1000C001"
+        },
+        {
+          "msg": "bed_temperature_too_high_than_filament",
+          "level": "3",
+          "error_code": "1000C001"
+        },
+        {
+          "msg": "bed_temperature_too_high_than_filament",
+          "level": "3",
+          "error_code": "1000C001"
+        },
+        {
+          "msg": "bed_temperature_too_high_than_filament",
+          "level": "3",
+          "error_code": "1000C001"
+        },
+        {
+          "msg": "bed_temperature_too_high_than_filament",
+          "level": "3",
+          "error_code": "1000C001"
+        },
+        {
+          "msg": "bed_temperature_too_high_than_filament",
+          "level": "3",
+          "error_code": "1000C001"
+        }
+      ]
+    },
+    {
+      "file": "Fukuoka_Road_20_Batch_3_E4-G5.3mf",
+      "plates": [
+        {
+          "batch": 3,
+          "plate": 1,
+          "tile": "E4",
+          "estimated_weight_g": 76.52,
+          "estimated_time_seconds": 10263,
+          "actual_label_toolpath_checks": [
+            {
+              "first_layer_gap_mm": 0.7365049999999924,
+              "second_layer_coverage_mm": -0.12254160165088103
+            },
+            {
+              "first_layer_gap_mm": 0.6140050000000044,
+              "second_layer_coverage_mm": -0.05879856712899806
+            },
+            {
+              "first_layer_gap_mm": 1.0934976274478,
+              "second_layer_coverage_mm": -0.07401499999999955
+            }
+          ],
+          "river_layers_sample": null,
+          "river_sample_status": "no_flat_river_faces",
+          "flat_river_face_area_mm2": 0.0
+        },
+        {
+          "batch": 3,
+          "plate": 2,
+          "tile": "E5",
+          "estimated_weight_g": 66.68,
+          "estimated_time_seconds": 8670,
+          "actual_label_toolpath_checks": [
+            {
+              "first_layer_gap_mm": 0.7265050000000015,
+              "second_layer_coverage_mm": -0.13488962867936072
+            },
+            {
+              "first_layer_gap_mm": 0.768880966669464,
+              "second_layer_coverage_mm": -0.05463072635657937
+            },
+            {
+              "first_layer_gap_mm": 1.0990326498278233,
+              "second_layer_coverage_mm": -0.07401499999999955
+            }
+          ],
+          "river_layers_sample": [
+            0.2,
+            0.4
+          ],
+          "river_sample_status": "verified_interior",
+          "flat_river_face_area_mm2": 5835.01519040204
+        },
+        {
+          "batch": 3,
+          "plate": 3,
+          "tile": "E6",
+          "estimated_weight_g": 75.49,
+          "estimated_time_seconds": 9076,
+          "actual_label_toolpath_checks": [
+            {
+              "first_layer_gap_mm": 0.7245040234375024,
+              "second_layer_coverage_mm": -0.10659501544765805
+            },
+            {
+              "first_layer_gap_mm": 0.7987213247468492,
+              "second_layer_coverage_mm": -0.18838823470482216
+            },
+            {
+              "first_layer_gap_mm": 1.0990323410116625,
+              "second_layer_coverage_mm": -0.0740159765625033
+            }
+          ],
+          "river_layers_sample": null,
+          "river_sample_status": "no_flat_river_faces",
+          "flat_river_face_area_mm2": 0.0
+        },
+        {
+          "batch": 3,
+          "plate": 4,
+          "tile": "E7",
+          "estimated_weight_g": 93.16,
+          "estimated_time_seconds": 11317,
+          "actual_label_toolpath_checks": [
+            {
+              "first_layer_gap_mm": 0.7365049999999924,
+              "second_layer_coverage_mm": -0.05018669871209036
+            },
+            {
+              "first_layer_gap_mm": 0.7648822004319271,
+              "second_layer_coverage_mm": -0.03748527055339296
+            },
+            {
+              "first_layer_gap_mm": 1.0990326498278367,
+              "second_layer_coverage_mm": -0.07401499999999955
+            }
+          ],
+          "river_layers_sample": null,
+          "river_sample_status": "no_flat_river_faces",
+          "flat_river_face_area_mm2": 0.0
+        },
+        {
+          "batch": 3,
+          "plate": 5,
+          "tile": "E8",
+          "estimated_weight_g": 91.65,
+          "estimated_time_seconds": 11808,
+          "actual_label_toolpath_checks": [
+            {
+              "first_layer_gap_mm": 0.724504999999992,
+              "second_layer_coverage_mm": -0.1945601907597277
+            },
+            {
+              "first_layer_gap_mm": 0.20671038261202665,
+              "second_layer_coverage_mm": -0.035582410168126716
+            },
+            {
+              "first_layer_gap_mm": 1.098716422061814,
+              "second_layer_coverage_mm": -0.07401499999999955
+            }
+          ],
+          "river_layers_sample": null,
+          "river_sample_status": "no_flat_river_faces",
+          "flat_river_face_area_mm2": 0.0
+        },
+        {
+          "batch": 3,
+          "plate": 6,
+          "tile": "E9",
+          "estimated_weight_g": 83.29,
+          "estimated_time_seconds": 10101,
+          "actual_label_toolpath_checks": [
+            {
+              "first_layer_gap_mm": 0.724504999999992,
+              "second_layer_coverage_mm": -0.13180911096281633
+            },
+            {
+              "first_layer_gap_mm": 0.7927839886386667,
+              "second_layer_coverage_mm": -0.10161658284213652
+            },
+            {
+              "first_layer_gap_mm": 1.098303561112028,
+              "second_layer_coverage_mm": -0.07401499999999955
+            }
+          ],
+          "river_layers_sample": null,
+          "river_sample_status": "no_flat_river_faces",
+          "flat_river_face_area_mm2": 0.0
+        },
+        {
+          "batch": 3,
+          "plate": 7,
+          "tile": "F1",
+          "estimated_weight_g": 78.76,
+          "estimated_time_seconds": 10771,
+          "actual_label_toolpath_checks": [
+            {
+              "first_layer_gap_mm": 0.7380014599609395,
+              "second_layer_coverage_mm": -0.046889999999984194
+            },
+            {
+              "first_layer_gap_mm": 0.7615049999999839,
+              "second_layer_coverage_mm": -0.12238999999998942
+            },
+            {
+              "first_layer_gap_mm": 1.0946252516060393,
+              "second_layer_coverage_mm": -0.07401854003905967
+            }
+          ],
+          "river_layers_sample": null,
+          "river_sample_status": "no_flat_river_faces",
+          "flat_river_face_area_mm2": 0.0
+        },
+        {
+          "batch": 3,
+          "plate": 8,
+          "tile": "F2",
+          "estimated_weight_g": 74.97,
+          "estimated_time_seconds": 9787,
+          "actual_label_toolpath_checks": [
+            {
+              "first_layer_gap_mm": 0.7377184923323588,
+              "second_layer_coverage_mm": -0.1341347749048231
+            },
+            {
+              "first_layer_gap_mm": 0.7347143718959435,
+              "second_layer_coverage_mm": -0.09182846780797158
+            },
+            {
+              "first_layer_gap_mm": 1.0972543574763145,
+              "second_layer_coverage_mm": -0.07401499999999955
+            }
+          ],
+          "river_layers_sample": [
+            0.2,
+            0.4
+          ],
+          "river_sample_status": "verified_interior",
+          "flat_river_face_area_mm2": 946.3719175617007
+        },
+        {
+          "batch": 3,
+          "plate": 9,
+          "tile": "F3",
+          "estimated_weight_g": 88.26,
+          "estimated_time_seconds": 11141,
+          "actual_label_toolpath_checks": [
+            {
+              "first_layer_gap_mm": 0.7275050000000063,
+              "second_layer_coverage_mm": -0.05779562170873401
+            },
+            {
+              "first_layer_gap_mm": 0.3606387773606642,
+              "second_layer_coverage_mm": -0.15175328812344613
+            },
+            {
+              "first_layer_gap_mm": 1.0990326498278367,
+              "second_layer_coverage_mm": -0.07401499999999955
+            }
+          ],
+          "river_layers_sample": [
+            0.2,
+            0.4
+          ],
+          "river_sample_status": "verified_interior",
+          "flat_river_face_area_mm2": 35.831054008542196
+        },
+        {
+          "batch": 3,
+          "plate": 10,
+          "tile": "F4",
+          "estimated_weight_g": 93.51,
+          "estimated_time_seconds": 12026,
+          "actual_label_toolpath_checks": [
+            {
+              "first_layer_gap_mm": 0.7400049999999949,
+              "second_layer_coverage_mm": -0.09353105309611508
+            },
+            {
+              "first_layer_gap_mm": 0.613505000000002,
+              "second_layer_coverage_mm": -0.03459381167292966
+            },
+            {
+              "first_layer_gap_mm": 1.0921866460985081,
+              "second_layer_coverage_mm": -0.07401499999999955
+            }
+          ],
+          "river_layers_sample": null,
+          "river_sample_status": "no_flat_river_faces",
+          "flat_river_face_area_mm2": 0.0
+        },
+        {
+          "batch": 3,
+          "plate": 11,
+          "tile": "F5",
+          "estimated_weight_g": 72.5,
+          "estimated_time_seconds": 9818,
+          "actual_label_toolpath_checks": [
+            {
+              "first_layer_gap_mm": 0.7300049389648431,
+              "second_layer_coverage_mm": -0.09262789885940796
+            },
+            {
+              "first_layer_gap_mm": 0.7686622239173215,
+              "second_layer_coverage_mm": -0.1831391948517492
+            },
+            {
+              "first_layer_gap_mm": 1.09887451664381,
+              "second_layer_coverage_mm": -0.07502497524730312
+            }
+          ],
+          "river_layers_sample": [
+            0.2,
+            0.4
+          ],
+          "river_sample_status": "verified_interior",
+          "flat_river_face_area_mm2": 6746.899119709495
+        },
+        {
+          "batch": 3,
+          "plate": 12,
+          "tile": "F6",
+          "estimated_weight_g": 75.66,
+          "estimated_time_seconds": 10427,
+          "actual_label_toolpath_checks": [
+            {
+              "first_layer_gap_mm": 0.7280049999999945,
+              "second_layer_coverage_mm": -0.08239016744243496
+            },
+            {
+              "first_layer_gap_mm": 0.7995221830490451,
+              "second_layer_coverage_mm": -0.20701194821242
+            },
+            {
+              "first_layer_gap_mm": 1.0990321866035662,
+              "second_layer_coverage_mm": -0.07401499999999955
+            }
+          ],
+          "river_layers_sample": [
+            0.2,
+            0.4
+          ],
+          "river_sample_status": "verified_interior",
+          "flat_river_face_area_mm2": 96.8998608506372
+        },
+        {
+          "batch": 3,
+          "plate": 13,
+          "tile": "F7",
+          "estimated_weight_g": 87.0,
+          "estimated_time_seconds": 11610,
+          "actual_label_toolpath_checks": [
+            {
+              "first_layer_gap_mm": 0.7400049999999949,
+              "second_layer_coverage_mm": -0.18397091438086144
+            },
+            {
+              "first_layer_gap_mm": 0.7635865059094014,
+              "second_layer_coverage_mm": -0.09800857324419383
+            },
+            {
+              "first_layer_gap_mm": 1.0990326498278413,
+              "second_layer_coverage_mm": -0.07401499999999955
+            }
+          ],
+          "river_layers_sample": null,
+          "river_sample_status": "no_flat_river_faces",
+          "flat_river_face_area_mm2": 0.0
+        },
+        {
+          "batch": 3,
+          "plate": 14,
+          "tile": "F8",
+          "estimated_weight_g": 89.8,
+          "estimated_time_seconds": 12134,
+          "actual_label_toolpath_checks": [
+            {
+              "first_layer_gap_mm": 0.7280049999999945,
+              "second_layer_coverage_mm": -0.14000740594735306
+            },
+            {
+              "first_layer_gap_mm": 0.2067103950699117,
+              "second_layer_coverage_mm": -0.11418458245359056
+            },
+            {
+              "first_layer_gap_mm": 1.098557701178327,
+              "second_layer_coverage_mm": -0.07401499999999955
+            }
+          ],
+          "river_layers_sample": null,
+          "river_sample_status": "no_flat_river_faces",
+          "flat_river_face_area_mm2": 0.0
+        },
+        {
+          "batch": 3,
+          "plate": 15,
+          "tile": "F9",
+          "estimated_weight_g": 80.52,
+          "estimated_time_seconds": 9778,
+          "actual_label_toolpath_checks": [
+            {
+              "first_layer_gap_mm": 0.7280049999999945,
+              "second_layer_coverage_mm": -0.11433291843425246
+            },
+            {
+              "first_layer_gap_mm": 0.7927835771199809,
+              "second_layer_coverage_mm": -0.09469216083066091
+            },
+            {
+              "first_layer_gap_mm": 1.0953468393649541,
+              "second_layer_coverage_mm": -0.07401499999999955
+            }
+          ],
+          "river_layers_sample": null,
+          "river_sample_status": "no_flat_river_faces",
+          "flat_river_face_area_mm2": 0.0
+        },
+        {
+          "batch": 3,
+          "plate": 16,
+          "tile": "G1",
+          "estimated_weight_g": 58.16,
+          "estimated_time_seconds": 7302,
+          "actual_label_toolpath_checks": [
+            {
+              "first_layer_gap_mm": 0.2515212439439215,
+              "second_layer_coverage_mm": -0.14039956845535953
+            },
+            {
+              "first_layer_gap_mm": 0.7440049999999998,
+              "second_layer_coverage_mm": -0.13725542252534578
+            },
+            {
+              "first_layer_gap_mm": 1.0983477161818145,
+              "second_layer_coverage_mm": -0.07401499999999955
+            }
+          ],
+          "river_layers_sample": null,
+          "river_sample_status": "no_flat_river_faces",
+          "flat_river_face_area_mm2": 0.0
+        },
+        {
+          "batch": 3,
+          "plate": 17,
+          "tile": "G2",
+          "estimated_weight_g": 90.49,
+          "estimated_time_seconds": 12635,
+          "actual_label_toolpath_checks": [
+            {
+              "first_layer_gap_mm": 0.2515212439439215,
+              "second_layer_coverage_mm": -0.054182005447744125
+            },
+            {
+              "first_layer_gap_mm": 0.7191087527530323,
+              "second_layer_coverage_mm": -0.1854057050432659
+            },
+            {
+              "first_layer_gap_mm": 1.0947621806949623,
+              "second_layer_coverage_mm": -0.07401499999999955
+            }
+          ],
+          "river_layers_sample": [
+            0.2,
+            0.4
+          ],
+          "river_sample_status": "verified_interior",
+          "flat_river_face_area_mm2": 791.3268935830856
+        },
+        {
+          "batch": 3,
+          "plate": 18,
+          "tile": "G3",
+          "estimated_weight_g": 71.73,
+          "estimated_time_seconds": 10283,
+          "actual_label_toolpath_checks": [
+            {
+              "first_layer_gap_mm": 0.25250393495445966,
+              "second_layer_coverage_mm": -0.16592869541630184
+            },
+            {
+              "first_layer_gap_mm": 0.35517821917774195,
+              "second_layer_coverage_mm": -0.19072766794783674
+            },
+            {
+              "first_layer_gap_mm": 1.0944468592367305,
+              "second_layer_coverage_mm": -0.07401628173828129
+            }
+          ],
+          "river_layers_sample": [
+            0.2,
+            0.4
+          ],
+          "river_sample_status": "verified_interior",
+          "flat_river_face_area_mm2": 340.059786769998
+        },
+        {
+          "batch": 3,
+          "plate": 19,
+          "tile": "G4",
+          "estimated_weight_g": 85.27,
+          "estimated_time_seconds": 11974,
+          "actual_label_toolpath_checks": [
+            {
+              "first_layer_gap_mm": 0.2515212439439215,
+              "second_layer_coverage_mm": -0.06516450768031937
+            },
+            {
+              "first_layer_gap_mm": 0.5935050000000059,
+              "second_layer_coverage_mm": -0.1646370653872903
+            },
+            {
+              "first_layer_gap_mm": 1.1019180645785727,
+              "second_layer_coverage_mm": -0.07401499999999955
+            }
+          ],
+          "river_layers_sample": null,
+          "river_sample_status": "no_flat_river_faces",
+          "flat_river_face_area_mm2": 0.0
+        },
+        {
+          "batch": 3,
+          "plate": 20,
+          "tile": "G5",
+          "estimated_weight_g": 82.28,
+          "estimated_time_seconds": 10968,
+          "actual_label_toolpath_checks": [
+            {
+              "first_layer_gap_mm": 0.2515212439439215,
+              "second_layer_coverage_mm": -0.16961744680433016
+            },
+            {
+              "first_layer_gap_mm": 0.7725437973420586,
+              "second_layer_coverage_mm": -0.05265569504819048
+            },
+            {
+              "first_layer_gap_mm": 1.0950820670782166,
+              "second_layer_coverage_mm": -0.07401499999999955
+            }
+          ],
+          "river_layers_sample": [
+            0.2,
+            0.4
+          ],
+          "river_sample_status": "verified_interior",
+          "flat_river_face_area_mm2": 148.12283212679904
+        }
+      ],
+      "sha256": "04f9161e3431e56f6b8ed8c7daab4554a439b5dbc959fa6fecd39bbb38c2b0c3",
+      "warnings": [
+        {
+          "msg": "bed_temperature_too_high_than_filament",
+          "level": "3",
+          "error_code": "1000C001"
+        },
+        {
+          "msg": "bed_temperature_too_high_than_filament",
+          "level": "3",
+          "error_code": "1000C001"
+        },
+        {
+          "msg": "bed_temperature_too_high_than_filament",
+          "level": "3",
+          "error_code": "1000C001"
+        },
+        {
+          "msg": "bed_temperature_too_high_than_filament",
+          "level": "3",
+          "error_code": "1000C001"
+        },
+        {
+          "msg": "bed_temperature_too_high_than_filament",
+          "level": "3",
+          "error_code": "1000C001"
+        },
+        {
+          "msg": "bed_temperature_too_high_than_filament",
+          "level": "3",
+          "error_code": "1000C001"
+        },
+        {
+          "msg": "bed_temperature_too_high_than_filament",
+          "level": "3",
+          "error_code": "1000C001"
+        },
+        {
+          "msg": "bed_temperature_too_high_than_filament",
+          "level": "3",
+          "error_code": "1000C001"
+        },
+        {
+          "msg": "bed_temperature_too_high_than_filament",
+          "level": "3",
+          "error_code": "1000C001"
+        },
+        {
+          "msg": "bed_temperature_too_high_than_filament",
+          "level": "3",
+          "error_code": "1000C001"
+        },
+        {
+          "msg": "bed_temperature_too_high_than_filament",
+          "level": "3",
+          "error_code": "1000C001"
+        },
+        {
+          "msg": "bed_temperature_too_high_than_filament",
+          "level": "3",
+          "error_code": "1000C001"
+        },
+        {
+          "msg": "bed_temperature_too_high_than_filament",
+          "level": "3",
+          "error_code": "1000C001"
+        },
+        {
+          "msg": "not_support_traditional_timelapse",
+          "level": "2",
+          "error_code": "10018003"
+        },
+        {
+          "msg": "not_support_traditional_timelapse",
+          "level": "3",
+          "error_code": "1000C003"
+        },
+        {
+          "msg": "bed_temperature_too_high_than_filament",
+          "level": "3",
+          "error_code": "1000C001"
+        },
+        {
+          "msg": "bed_temperature_too_high_than_filament",
+          "level": "3",
+          "error_code": "1000C001"
+        },
+        {
+          "msg": "bed_temperature_too_high_than_filament",
+          "level": "3",
+          "error_code": "1000C001"
+        },
+        {
+          "msg": "bed_temperature_too_high_than_filament",
+          "level": "3",
+          "error_code": "1000C001"
+        },
+        {
+          "msg": "bed_temperature_too_high_than_filament",
+          "level": "3",
+          "error_code": "1000C001"
+        },
+        {
+          "msg": "bed_temperature_too_high_than_filament",
+          "level": "3",
+          "error_code": "1000C001"
+        },
+        {
+          "msg": "bed_temperature_too_high_than_filament",
+          "level": "3",
+          "error_code": "1000C001"
+        }
+      ]
+    },
+    {
+      "file": "Fukuoka_Road_20_Batch_4_G6-H9.3mf",
+      "plates": [
+        {
+          "batch": 4,
+          "plate": 1,
+          "tile": "G6",
+          "estimated_weight_g": 66.03,
+          "estimated_time_seconds": 9437,
+          "actual_label_toolpath_checks": [
+            {
+              "first_layer_gap_mm": 0.25152070799494175,
+              "second_layer_coverage_mm": -0.15310291114452135
+            },
+            {
+              "first_layer_gap_mm": 0.7947249580504576,
+              "second_layer_coverage_mm": -0.03810342112348483
+            },
+            {
+              "first_layer_gap_mm": 1.0966383191480087,
+              "second_layer_coverage_mm": -0.07455568038741828
+            }
+          ],
+          "river_layers_sample": [
+            0.2,
+            0.4
+          ],
+          "river_sample_status": "verified_interior",
+          "flat_river_face_area_mm2": 5871.5339793931225
+        },
+        {
+          "batch": 4,
+          "plate": 2,
+          "tile": "G7",
+          "estimated_weight_g": 86.23,
+          "estimated_time_seconds": 12350,
+          "actual_label_toolpath_checks": [
+            {
+              "first_layer_gap_mm": 0.2515249918753957,
+              "second_layer_coverage_mm": -0.06478629238654277
+            },
+            {
+              "first_layer_gap_mm": 0.7437680078621809,
+              "second_layer_coverage_mm": -0.14994492180795754
+            },
+            {
+              "first_layer_gap_mm": 1.098696482124657,
+              "second_layer_coverage_mm": -0.07451316894531274
+            }
+          ],
+          "river_layers_sample": null,
+          "river_sample_status": "no_flat_river_faces",
+          "flat_river_face_area_mm2": 0.0
+        },
+        {
+          "batch": 4,
+          "plate": 3,
+          "tile": "G8",
+          "estimated_weight_g": 81.13,
+          "estimated_time_seconds": 10423,
+          "actual_label_toolpath_checks": [
+            {
+              "first_layer_gap_mm": 0.25152297387489286,
+              "second_layer_coverage_mm": -0.15191761084723854
+            },
+            {
+              "first_layer_gap_mm": 0.19989099883485598,
+              "second_layer_coverage_mm": -0.06935081764214174
+            },
+            {
+              "first_layer_gap_mm": 1.098677163234758,
+              "second_layer_coverage_mm": -0.07451518310547228
+            }
+          ],
+          "river_layers_sample": null,
+          "river_sample_status": "no_flat_river_faces",
+          "flat_river_face_area_mm2": 0.0
+        },
+        {
+          "batch": 4,
+          "plate": 4,
+          "tile": "G9",
+          "estimated_weight_g": 73.82,
+          "estimated_time_seconds": 9481,
+          "actual_label_toolpath_checks": [
+            {
+              "first_layer_gap_mm": 0.2515212404813322,
+              "second_layer_coverage_mm": -0.03535101277888639
+            },
+            {
+              "first_layer_gap_mm": 0.7952625830835098,
+              "second_layer_coverage_mm": -0.14385963218791736
+            },
+            {
+              "first_layer_gap_mm": 1.0986380039413932,
+              "second_layer_coverage_mm": -0.07401499999999955
+            }
+          ],
+          "river_layers_sample": null,
+          "river_sample_status": "bank_detail_only_not_verified",
+          "flat_river_face_area_mm2": 0.04893650466692634
+        },
+        {
+          "batch": 4,
+          "plate": 5,
+          "tile": "H1",
+          "estimated_weight_g": 64.67,
+          "estimated_time_seconds": 7416,
+          "actual_label_toolpath_checks": [
+            {
+              "first_layer_gap_mm": 0.7380049999999854,
+              "second_layer_coverage_mm": -0.1799054272460892
+            },
+            {
+              "first_layer_gap_mm": 0.7610054272460884,
+              "second_layer_coverage_mm": -0.0744045727539116
+            },
+            {
+              "first_layer_gap_mm": 1.0985587135000328,
+              "second_layer_coverage_mm": -0.07401499999999955
+            }
+          ],
+          "river_layers_sample": null,
+          "river_sample_status": "no_flat_river_faces",
+          "flat_river_face_area_mm2": 0.0
+        },
+        {
+          "batch": 4,
+          "plate": 6,
+          "tile": "H2",
+          "estimated_weight_g": 59.03,
+          "estimated_time_seconds": 7953,
+          "actual_label_toolpath_checks": [
+            {
+              "first_layer_gap_mm": 0.7380049999999854,
+              "second_layer_coverage_mm": -0.1921388124135072
+            },
+            {
+              "first_layer_gap_mm": 0.7347932267371682,
+              "second_layer_coverage_mm": -0.08656833443668092
+            },
+            {
+              "first_layer_gap_mm": 1.098716422061814,
+              "second_layer_coverage_mm": -0.07401499999999955
+            }
+          ],
+          "river_layers_sample": [
+            0.2,
+            0.4
+          ],
+          "river_sample_status": "verified_interior",
+          "flat_river_face_area_mm2": 332.20854457915993
+        },
+        {
+          "batch": 4,
+          "plate": 7,
+          "tile": "H3",
+          "estimated_weight_g": 67.42,
+          "estimated_time_seconds": 9273,
+          "actual_label_toolpath_checks": [
+            {
+              "first_layer_gap_mm": 0.7275049999999921,
+              "second_layer_coverage_mm": -0.06559455491427224
+            },
+            {
+              "first_layer_gap_mm": 0.3606628461600029,
+              "second_layer_coverage_mm": -0.15562746338756062
+            },
+            {
+              "first_layer_gap_mm": 1.0990326498278413,
+              "second_layer_coverage_mm": -0.07401499999999955
+            }
+          ],
+          "river_layers_sample": [
+            0.2,
+            0.4
+          ],
+          "river_sample_status": "verified_interior",
+          "flat_river_face_area_mm2": 193.0194893709495
+        },
+        {
+          "batch": 4,
+          "plate": 8,
+          "tile": "H4",
+          "estimated_weight_g": 61.08,
+          "estimated_time_seconds": 8265,
+          "actual_label_toolpath_checks": [
+            {
+              "first_layer_gap_mm": 0.7400049999999949,
+              "second_layer_coverage_mm": -0.12491468680490053
+            },
+            {
+              "first_layer_gap_mm": 0.6140050000000044,
+              "second_layer_coverage_mm": -0.09529578752483867
+            },
+            {
+              "first_layer_gap_mm": 1.0941288658803012,
+              "second_layer_coverage_mm": -0.07401499999999955
+            }
+          ],
+          "river_layers_sample": [
+            0.2,
+            0.4
+          ],
+          "river_sample_status": "verified_interior",
+          "flat_river_face_area_mm2": 152.96004020626788
+        },
+        {
+          "batch": 4,
+          "plate": 9,
+          "tile": "H5",
+          "estimated_weight_g": 72.81,
+          "estimated_time_seconds": 10334,
+          "actual_label_toolpath_checks": [
+            {
+              "first_layer_gap_mm": 0.7300049999999898,
+              "second_layer_coverage_mm": -0.11590829101562067
+            },
+            {
+              "first_layer_gap_mm": 0.7785802559751867,
+              "second_layer_coverage_mm": -0.07048265232949463
+            },
+            {
+              "first_layer_gap_mm": 1.098559929463734,
+              "second_layer_coverage_mm": -0.07401499999999955
+            }
+          ],
+          "river_layers_sample": null,
+          "river_sample_status": "no_flat_river_faces",
+          "flat_river_face_area_mm2": 0.0
+        },
+        {
+          "batch": 4,
+          "plate": 10,
+          "tile": "H6",
+          "estimated_weight_g": 64.72,
+          "estimated_time_seconds": 8561,
+          "actual_label_toolpath_checks": [
+            {
+              "first_layer_gap_mm": 0.7280049999999945,
+              "second_layer_coverage_mm": -0.20339241753217907
+            },
+            {
+              "first_layer_gap_mm": 0.7996281634535913,
+              "second_layer_coverage_mm": -0.20044808046479953
+            },
+            {
+              "first_layer_gap_mm": 1.0986753749255322,
+              "second_layer_coverage_mm": -0.07401499999999955
+            }
+          ],
+          "river_layers_sample": [
+            0.2,
+            0.4
+          ],
+          "river_sample_status": "verified_interior",
+          "flat_river_face_area_mm2": 2859.4995674114907
+        },
+        {
+          "batch": 4,
+          "plate": 11,
+          "tile": "H7",
+          "estimated_weight_g": 60.47,
+          "estimated_time_seconds": 8028,
+          "actual_label_toolpath_checks": [
+            {
+              "first_layer_gap_mm": 0.7400049999999985,
+              "second_layer_coverage_mm": -0.1938400000000017
+            },
+            {
+              "first_layer_gap_mm": 0.7612918452178705,
+              "second_layer_coverage_mm": -0.13523974874371816
+            },
+            {
+              "first_layer_gap_mm": 1.0990326498278324,
+              "second_layer_coverage_mm": -0.07452491421987051
+            }
+          ],
+          "river_layers_sample": [
+            0.2,
+            0.4
+          ],
+          "river_sample_status": "verified_interior",
+          "flat_river_face_area_mm2": 5193.518014315634
+        },
+        {
+          "batch": 4,
+          "plate": 12,
+          "tile": "H8",
+          "estimated_weight_g": 62.04,
+          "estimated_time_seconds": 7668,
+          "actual_label_toolpath_checks": [
+            {
+              "first_layer_gap_mm": 0.7280049999999945,
+              "second_layer_coverage_mm": -0.15682612735235457
+            },
+            {
+              "first_layer_gap_mm": 0.20672269968067838,
+              "second_layer_coverage_mm": -0.05829414295837268
+            },
+            {
+              "first_layer_gap_mm": 1.0987164220618275,
+              "second_layer_coverage_mm": -0.07401499999999955
+            }
+          ],
+          "river_layers_sample": [
+            0.2,
+            0.4
+          ],
+          "river_sample_status": "verified_interior",
+          "flat_river_face_area_mm2": 1008.383451144007
+        },
+        {
+          "batch": 4,
+          "plate": 13,
+          "tile": "H9",
+          "estimated_weight_g": 58.23,
+          "estimated_time_seconds": 6879,
+          "actual_label_toolpath_checks": [
+            {
+              "first_layer_gap_mm": 0.7280049999999945,
+              "second_layer_coverage_mm": -0.18366266539573237
+            },
+            {
+              "first_layer_gap_mm": 0.793174750608125,
+              "second_layer_coverage_mm": -0.09722605315522745
+            },
+            {
+              "first_layer_gap_mm": 1.0945395282685277,
+              "second_layer_coverage_mm": -0.07401499999999955
+            }
+          ],
+          "river_layers_sample": null,
+          "river_sample_status": "no_flat_river_faces",
+          "flat_river_face_area_mm2": 0.0
+        }
+      ],
+      "sha256": "39ff6f651eed98243358d4fffce510c08d93660ad8a7ec03326d7696dbcb35ca",
+      "warnings": [
+        {
+          "msg": "bed_temperature_too_high_than_filament",
+          "level": "3",
+          "error_code": "1000C001"
+        },
+        {
+          "msg": "bed_temperature_too_high_than_filament",
+          "level": "3",
+          "error_code": "1000C001"
+        },
+        {
+          "msg": "bed_temperature_too_high_than_filament",
+          "level": "3",
+          "error_code": "1000C001"
+        },
+        {
+          "msg": "not_support_traditional_timelapse",
+          "level": "2",
+          "error_code": "10018003"
+        },
+        {
+          "msg": "not_support_traditional_timelapse",
+          "level": "3",
+          "error_code": "1000C003"
+        },
+        {
+          "msg": "bed_temperature_too_high_than_filament",
+          "level": "3",
+          "error_code": "1000C001"
+        },
+        {
+          "msg": "bed_temperature_too_high_than_filament",
+          "level": "3",
+          "error_code": "1000C001"
+        },
+        {
+          "msg": "bed_temperature_too_high_than_filament",
+          "level": "3",
+          "error_code": "1000C001"
+        },
+        {
+          "msg": "bed_temperature_too_high_than_filament",
+          "level": "3",
+          "error_code": "1000C001"
+        },
+        {
+          "msg": "bed_temperature_too_high_than_filament",
+          "level": "3",
+          "error_code": "1000C001"
+        },
+        {
+          "msg": "bed_temperature_too_high_than_filament",
+          "level": "3",
+          "error_code": "1000C001"
+        },
+        {
+          "msg": "bed_temperature_too_high_than_filament",
+          "level": "3",
+          "error_code": "1000C001"
+        },
+        {
+          "msg": "bed_temperature_too_high_than_filament",
+          "level": "3",
+          "error_code": "1000C001"
+        },
+        {
+          "msg": "bed_temperature_too_high_than_filament",
+          "level": "3",
+          "error_code": "1000C001"
+        },
+        {
+          "msg": "bed_temperature_too_high_than_filament",
+          "level": "3",
+          "error_code": "1000C001"
+        }
+      ]
+    }
+  ],
+  "estimated_total_weight_g": 5516.64,
+  "estimated_total_time_seconds": 697082,
+  "physical_print_tested": false
+}
